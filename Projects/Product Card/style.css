@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.box{
+    width: 650px;
+    height: 500px;
+    border: 1px solid grey;
+    margin-left: 30%;
+    margin-top: 10%;
+    border-radius: 10px;
+}
+
+.img{
+    width: 600px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.title{
+    margin-left: 20px;
+    margin-top: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.line{
+    width: 500px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.footer{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.price{
+    margin-top: 20px;
+    font-size: 25px;
+    margin-left: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+#first-price{
+    color: blueviolet;
+    font-size: bold;
+}
+#discount{
+    margin-left: 30px;
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(221, 84, 111);
+    border-radius: 10px;
+    color: white;
+}
